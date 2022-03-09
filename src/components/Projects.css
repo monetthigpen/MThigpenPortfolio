@@ -1,0 +1,19 @@
+.fontAw{
+    font-size: 50px;
+    color:rgb(151, 151, 151);
+}
+.ptSans{
+    font-family: 'PT Sans', sans-serif;
+}
+.subHeading{
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+.projImg{
+    height: 450px;
+}
+#projSmTxt{
+    color:rgb(151, 151, 151);
+    font-size: 25px;
+}

@@ -1,0 +1,20 @@
+
+#aboutTxt{
+    font-size: 35px;
+    color: white;
+}
+.ptSans{
+    font-family: 'PT Sans', sans-serif;
+}
+
+#profileImg{
+    height: 330px;
+    width: 310px;
+    border-radius: 70%;
+}
+ .abtSmTxt{
+    font-size: 15px;
+    text-indent: 50px;
+    color: white;
+ }
+ 
