@@ -9,7 +9,7 @@ function Skills() {
         <Container>
             <br/>
             <br/>
-            <Row className="text-center justify-content-md-center">
+            <Row id="skills" className="text-center justify-content-md-center">
                 <Col sm={12}>
                 <FontAwesomeIcon icon={faCogs} className="fontAw" />
                     <br/>

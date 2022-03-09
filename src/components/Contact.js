@@ -10,7 +10,7 @@ function Contact() {
             <br/>
             <br/>
             
-            <Row className="text-center justify-content-md-center">
+            <Row id="contact" className="text-center justify-content-md-center">
                 <Col sm={12}>
                 <FontAwesomeIcon icon={faIdCard} className="fontAw" />
                     <br/>

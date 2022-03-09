@@ -7,7 +7,7 @@ function About() {
             <br/>
             <br/>
             <br/>
-            <Row className="justify-content-md-center">
+            <Row id="about" className="justify-content-md-center">
                 <Col sm={7}>
                     <br/>
                     <h5  id="aboutTxt" className="ptSans"> Hi, I'm Monet.

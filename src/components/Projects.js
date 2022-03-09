@@ -8,7 +8,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
      return(
         <Container>
             <br/>
-            <Row className="text-center justify-content-md-center">
+            <Row id="projects" className="text-center justify-content-md-center">
                 <Col sm={12}>
                 <FontAwesomeIcon icon={faLaptopCode} className="fontAw" />
                     <br/>

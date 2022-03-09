@@ -9,10 +9,10 @@ function NavbarM() {
             <Container>
             <Navbar.Brand id="home" href="#home">Monet Thigpen</Navbar.Brand>
             <Nav className="me-auto">
-            <Nav.Link id="about" href="#about">About</Nav.Link>
-            <Nav.Link id="projects" href="#projects">Projects</Nav.Link>
-            <Nav.Link id="skills" href="#skills">Skills</Nav.Link>
-            <Nav.Link id="contact" href="#contact">Contact</Nav.Link>
+            <Nav.Link id="aboutN" href="#about">About</Nav.Link>
+            <Nav.Link id="projectsN" href="#projects">Projects</Nav.Link>
+            <Nav.Link id="skillsN" href="#skills">Skills</Nav.Link>
+            <Nav.Link id="contactN" href="#contact">Contact</Nav.Link>
             </Nav>
             </Container>
         </Navbar>
