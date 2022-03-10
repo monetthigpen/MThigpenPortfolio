@@ -1,7 +1,7 @@
 {
   "short_name": "React App",
   "name": "mthigpen-portfolio",
-  "start_url": "/",
+  "start_url": "https://mthigpen-portfolio.herokuapp.com/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
