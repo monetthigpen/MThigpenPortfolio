@@ -11,7 +11,7 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(publicPath, 'index.html'));
  });
 
- app.use(express.static(__dirname+"/client/build"));
+ app.use(express.static(publicPath));
 app.listen(port, () => {
    console.log(`Server is up on port ${port}!`);
 });
