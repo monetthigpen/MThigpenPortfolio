@@ -46,8 +46,9 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                     <Button variant="primary">Try It Out</Button>
                                 </Card.Body>
                             </Card>
+                            <br></br>
                 </Col>
-                <br/>
+                
                 <Col sm={5}>
                     <Card>
                         <Card.Img variant="top" className="projImg" src={`${process.env.PUBLIC_URL}/assets/images/Septa.png`} />
