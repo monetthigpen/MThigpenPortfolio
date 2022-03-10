@@ -14,7 +14,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                     <br/>
                     <br/>
                     <h5 className="subHeading ptSans">My Projects</h5>
-                    <p id="projSmTxt"><i>To learn about my current projects click</i> <a href="#">Here</a></p>
+                    <p id="projSmTxt"><i>To learn about my current projects click</i> <a href="https://docs.google.com/document/d/e/2PACX-1vRTdqmGKP_T-SLBjMQLnSQ--kl7wd12mJvnyZpNU_CcdLTCeRW_CpXgKe_r-edXpw/pub">Here</a></p>
                 </Col>
             </Row>
             <br/>
