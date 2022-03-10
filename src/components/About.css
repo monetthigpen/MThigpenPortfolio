@@ -17,4 +17,8 @@
     text-indent: 50px;
     color: white;
  }
- 
+ @media only screen and (max-width: 575px) {
+    #profileImg{
+        display: none;
+    }
+  }

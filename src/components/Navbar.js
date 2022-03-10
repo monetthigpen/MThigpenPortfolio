@@ -7,7 +7,7 @@ function NavbarM() {
         // <p>Hello</p>
         <Navbar id="nvBck">
             <Container>
-            <Navbar.Brand id="home" href="#home">Monet Thigpen</Navbar.Brand>
+            <Navbar.Brand id="home" href="#home" expand="sm">Monet Thigpen</Navbar.Brand>
                 <Navbar.Collapse>
                     <Nav className="me-auto">
                         <Nav.Link id="aboutN" href="#about">About</Nav.Link>
