@@ -17,3 +17,8 @@
 #contactN{
     color:rgb(151, 151, 151);
 }
+@media only screen and (max-width: 600px) {
+    .navText{
+        font-size: 12px;
+    }
+}
