@@ -27,7 +27,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                 <Card.Text>
                                 Interactive children's books for different age groups to model positive behaviors for respecting the environment and doing one's part to keep the city clean.
                                 </Card.Text>
-                                <Button variant="primary">Check Out WINC Stories</Button>
+                                <Button variant="primary" href="http://winc-stories.herokuapp.com/">Check Out WINC Stories</Button>
                             </Card.Body>
                         </Card>
                         
@@ -43,7 +43,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                     <Card.Text>
                                     Design your own Funko POP. Drag and drop different heads, bodies, and legs of your favorite Marvel character Funko-Pops To play the full version with the matching game and trophy-room Sign-Up!
                                     </Card.Text>
-                                    <Button variant="primary">Try It Out</Button>
+                                    <Button variant="primary" href="https://funky-funkos.herokuapp.com/">Try It Out</Button>
                                 </Card.Body>
                             </Card>
                             <br></br>
@@ -57,7 +57,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                 <Card.Text>
                                 Modern problems require modern solutions. Today we provide you with one for a problem you probably don't think too much about. This website will create a playlist on YouTube just for your trip. The best part? Its timed for how long you'll be on Septa! Just give us some details below and you'll have entertainment in no time.
                                 </Card.Text>
-                                <Button variant="primary">Try It Out</Button>
+                                <Button variant="primary" href="https://monetthigpen.github.io/projectOne/index.html">Try It Out</Button>
                             </Card.Body>
                     </Card>
                 </Col>

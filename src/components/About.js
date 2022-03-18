@@ -17,8 +17,8 @@ function About() {
                     </p>
                     <Row>
                         <Col sm={6}>
-                        <Button variant="success">Contact Me</Button>{' '}
-                        <Button variant="light">See My Portfolio</Button>
+                        <Button variant="success" href="#contact">Contact Me</Button>{' '}
+                        <Button variant="light" href="#projects">See My Portfolio</Button>
                         </Col>
                     </Row>
                 </Col>
