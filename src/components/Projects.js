@@ -19,7 +19,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
             </Row>
             <br/>
             <Row className="justify-content-md-center">
-                <Col sm={5} >
+            <CardGroup>
                         <Card>
                         <Card.Img variant="top" src={`${process.env.PUBLIC_URL}/assets/images/WINC.png`} />
                             <Card.Body>
@@ -31,8 +31,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                             </Card.Body>
                         </Card>
                         
-                </Col> 
-                <Col sm={5}>
+                
                     <Card>
                             <Card.Img variant="top" src='https://cdn.dribbble.com/users/1208648/screenshots/4017072/sw.gif' />
                                 <Card.Body>
@@ -44,7 +43,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                 </Card.Body>
                             </Card>
                             <br></br>
-                </Col>
+                </CardGroup>
             </Row>
             <br/>
         </Container>
