@@ -47,7 +47,7 @@ function Contact() {
                     </a>
                </Col>
                <Col className="text-center justify-content-md-center" sm={3}>
-                   <a href="github.com/monetthigpen">
+                   <a href="https://github.com/monetthigpen">
                     <FontAwesomeIcon icon={faGithub} className="fontAw" />
                     <br></br>
                     <br></br>

@@ -35,7 +35,7 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
             </Row>
             <br/>
             <Row className="justify-content-md-center">
-                <Col sm={5}>
+                <Col sm={10}>
                     <Card>
                             <Card.Img variant="top" src='https://cdn.dribbble.com/users/1208648/screenshots/4017072/sw.gif' />
                                 <Card.Body>
@@ -47,19 +47,6 @@ import { faLaptopCode } from '@fortawesome/free-solid-svg-icons'
                                 </Card.Body>
                             </Card>
                             <br></br>
-                </Col>
-                
-                <Col sm={5}>
-                    <Card>
-                        <Card.Img variant="top" className="projImg" src={`${process.env.PUBLIC_URL}/assets/images/Septa.png`} />
-                            <Card.Body>
-                                <Card.Title>Septa Key Playlist</Card.Title>
-                                <Card.Text>
-                                Modern problems require modern solutions. Today we provide you with one for a problem you probably don't think too much about. This website will create a playlist on YouTube just for your trip. The best part? Its timed for how long you'll be on Septa! Just give us some details below and you'll have entertainment in no time.
-                                </Card.Text>
-                                <Button variant="primary" href="https://monetthigpen.github.io/projectOne/index.html">Try It Out</Button>
-                            </Card.Body>
-                    </Card>
                 </Col>
             </Row>
             <br/>
